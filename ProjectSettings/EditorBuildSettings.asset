@@ -5,13 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuLevel.unity
     guid: 2fa55462fc719a848b33dd6097f67562
-  - enabled: 1
+  - enabled: 0
+    path: Assets/Geo_Quest/Scenes/Geo_Quest_Scene_1.unity
+    guid: 8fcbbf205b9dfa043a98c17f73b8a9f0
+  - enabled: 0
+    path: Assets/Geo_Quest/Scenes/Geo_Quest_Scene_2.unity
+    guid: 2ccdb383c8d00d94ea626f78a8486577
+  - enabled: 0
+    path: Assets/Geo_Quest/Scenes/Geo_Quest_Scene_3.unity
+    guid: a1c2cefe1e818484aba6209b16696f95
+  - enabled: 0
     path: Assets/Pixel_Quest/Scenes/Pixel_Quest_TestLevel.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level_2.unity
     guid: f9555ef8cf6b50447922872cea2af702
+  - enabled: 1
+    path: Assets/Hands-On Homework #3/Scenes/HW3_Scene 1.unity
+    guid: be51966ea3a94de44aac634c2e439d41
+  - enabled: 1
+    path: Assets/Hands-On Homework #3/Scenes/HW3_Scene.unity
+    guid: f75dcdb9bf8a1cd45a73fee947bce6b7
   m_configObjects: {}
